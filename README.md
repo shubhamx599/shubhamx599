@@ -13,7 +13,7 @@
 Developer who builds **fast, visually rich web interfaces** with React.js and GSAP.
 Background in graphic design — I care about how things look *and* how they work.
 
-📍 Delhi, India &nbsp;|&nbsp; 🔭 Open to Frontend Developer roles
+📍 Delhi, India
 
 </div>
 
