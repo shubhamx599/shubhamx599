@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20GSAP%20%7C%20UI%2FUX&descAlignY=58&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20React.js%20%7C%20GSAP%20%7C%20UI%2FUX&descAlignY=58&descColor=a78bfa" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 👋 Hey, I'm Shubham
 
-Frontend developer who builds **fast, visually rich web interfaces** with React.js and GSAP.
+Developer who builds **fast, visually rich web interfaces** with React.js and GSAP.
 Background in graphic design — I care about how things look *and* how they work.
 
 📍 Delhi, India &nbsp;|&nbsp; 🔭 Open to Frontend Developer roles
