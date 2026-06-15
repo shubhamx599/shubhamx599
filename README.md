@@ -21,7 +21,7 @@
       </td>
       <td width="40%" align="center" valign="middle">
         <!-- Minimalist coding visual that matches the violet/purple theme -->
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZlMzhkMmQ2ODRkMzk1ZTBlODk1NmE4MzBiZWIzYWRjMjM3MzdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TvI9svfIWglRnF/giphy.gif" width="180" alt="Coding GIF" />
+        <img src="" width="180" alt="Coding GIF" />
       </td>
     </tr>
   </table>
