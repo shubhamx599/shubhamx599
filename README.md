@@ -21,7 +21,7 @@
       </td>
       <td width="40%" align="center" valign="middle">
         <!-- Minimalist coding visual that matches the violet/purple theme -->
-        <img src="./Github-profile-coding-gif.gif" width="180" alt="Coding GIF" />
+        <img src="https://raw.githubusercontent.com/shubhamx599/shubhamx599/main/Github-profile-coding-gif.gif" width="180" alt="Coding GIF" />
       </td>
     </tr>
   </table>
