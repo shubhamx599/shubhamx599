@@ -2,40 +2,44 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20React.js%20%7C%20GSAP%20%7C%20UI%2FUX&descAlignY=58&descColor=a78bfa" />
 
-</div>
-
----
-
-<div align="center">
-
-### 👋 Hey, I'm Shubham
-
-Developer who builds **fast, visually rich web interfaces** with React.js and GSAP.
-Background in graphic design — I care about how things look *and* how they work.
-
-📍 Delhi, India
+<!-- Typing effect that highlights Shubham's core specialities dynamically -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=Creative+Frontend+Developer;UI%2FUX+Designer;React.js+%26+GSAP+Specialist;Graphic+Design+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ About Me
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%" valign="top">
+        <p>👋 Hey, I'm <strong>Shubham</strong>! I am a frontend developer who loves building <strong>fast, interactive, and visually stunning web interfaces</strong>.</p>
+        <p>🎨 With a strong background in graphic design, I bring a unique blend of aesthetic precision and clean engineering to every project. I care deeply about how things look, feel, and function.</p>
+        <p>📍 Delhi, India</p>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <!-- Minimalist coding visual that matches the violet/purple theme -->
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZlMzhkMmQ2ODRkMzk1ZTBlODk1NmE4MzBiZWIzYWRjMjM3MzdkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TvI9svfIWglRnF/giphy.gif" width="180" alt="Coding GIF" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Section | Technologies |
+| :--- | :--- |
+| **Frontend Core** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Libraries & Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Motion & Animation** | ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Backend & Databases** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Design & Versioning** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
@@ -45,12 +49,12 @@ Background in graphic design — I care about how things look *and* how they wor
 
 <div align="center">
 
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| 🤖 **Recrutix** | AI-powered resume screening & ranking tool. Improved screening efficiency by 70%. | Python, React, REST APIs | [recrutix.vercel.app](https://recrutix.vercel.app/) |
-| 👗 **Fashion Website** | Cinematic 8-page luxury fashion site — custom cursor, GSAP scroll animations, clip-mask hero | HTML, CSS, Vanilla JS, GSAP | [Live](https://shubhamx599.vercel.app/) |
-| 🎮 **Nexus Arena** | Gaming tournament platform with brackets, leaderboards & user registration | React, Tailwind, REST APIs | [nexusarena.vercel.app](https://nexusarena.vercel.app/) |
-| 🧠 **AIWay** | Discover & compare AI courses across top learning platforms | React, Tailwind CSS | [aiway.vercel.app](https://aiway.vercel.app/) |
+| Project | Description / Key Highlights | Stack | Live Demo |
+| :--- | :--- | :--- | :--- |
+| 🤖 **Recrutix** | AI-powered resume screening & ranking tool. **Improved screening efficiency by 70%**. | `Python`, `React`, `REST APIs` | [**Visit Live 🔗**](https://recrutix.vercel.app/) |
+| 👗 **Fashion Website** | Cinematic 8-page luxury fashion site featuring custom cursor, GSAP scroll animations, and clip-mask hero. | `HTML`, `CSS`, `JS`, `GSAP` | [**Visit Live 🔗**](https://shubhamx599.vercel.app/) |
+| 🎮 **Nexus Arena** | Gaming tournament platform featuring brackets, live leaderboards, and user registration. | `React`, `Tailwind`, `REST APIs` | [**Visit Live 🔗**](https://nexusarena.vercel.app/) |
+| 🧠 **AIWay** | Aggregator platform to discover and compare AI courses across top learning sites. | `React`, `Tailwind CSS` | [**Visit Live 🔗**](https://aiway.vercel.app/) |
 
 </div>
 
@@ -59,29 +63,34 @@ Background in graphic design — I care about how things look *and* how they wor
 ## 🏆 Certifications & Achievements
 
 - 🎓 **Meta Front-End Developer Specialization** — React.js & modern UI/UX *(Meta, 2024)*
-- 🌍 **Stanford Code in Place 2025** — Selected in **top 30% globally** *(Stanford University, 2025)*
-- 📜 **Web Development** — HTML, CSS, JS, React *(Internshala, 2022)*
+- 🌍 **Stanford Code in Place 2025** — Selected in the **top 30% globally** *(Stanford University, 2025)*
+- 📜 **Web Development Certification** — HTML, CSS, JS, React *(Internshala, 2022)*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
+<!-- Customized stats cards with matching parameters for a unified dark purple/indigo theme -->
 <div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamx599&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamx599&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhamx599&show_icons=true&hide_border=true&count_private=true&bg_color=0f0c29&title_color=a78bfa&text_color=cbd5e1&icon_color=a78bfa" />
+      </td>
+      <td align="center">
+        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhamx599&layout=compact&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=cbd5e1&icon_color=a78bfa" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shubhamx599&theme=tokyonight&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=shubhamx599&hide_border=true&background=0f0c29&fire=a78bfa&ring=a78bfa&currStreakLabel=a78bfa&currStreakNum=ffffff&sideNums=cbd5e1&sideLabels=cbd5e1&dates=cbd5e1" />
 </div>
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect With Me
 
 <div align="center">
 
