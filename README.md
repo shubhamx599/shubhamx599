@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20React.js%20%7C%20GSAP%20%7C%20UI%2FUX&descAlignY=58&descColor=a78bfa" />
 
-<!-- Typing effect that highlights Shubham's core specialities dynamically -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=Creative+Frontend+Developer;UI%2FUX+Designer;React.js+%26+GSAP+Specialist;Graphic+Design+Enthusiast" alt="Typing SVG" />
 
 </div>
@@ -14,14 +13,13 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="60%" valign="top">
+      <td width="80%" valign="middle">
         <p>👋 Hey, I'm <strong>Shubham</strong>! I am a frontend developer who loves building <strong>fast, interactive, and visually stunning web interfaces</strong>.</p>
         <p>🎨 With a strong background in graphic design, I bring a unique blend of aesthetic precision and clean engineering to every project. I care deeply about how things look, feel, and function.</p>
         <p>📍 Delhi, India</p>
       </td>
-      <td width="40%" align="center" valign="middle">
-        <!-- Minimalist coding visual that matches the violet/purple theme -->
-        <img src="./assets/GIthub-profile-coding-gif.gif" width="180" alt="Coding GIF" />
+      <td width="20%" align="" valign="bottom">
+        <img src="./assets/GIthub-profile-coding-gif.gif" width="210" alt="Coding GIF" />
       </td>
     </tr>
   </table>
@@ -51,10 +49,9 @@
 
 | Project | Description / Key Highlights | Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| 🤖 **Recrutix** | AI-powered resume screening & ranking tool. **Improved screening efficiency by 70%**. | `Python`, `React`, `REST APIs` | [**Visit Live 🔗**](https://recrutix.vercel.app/) |
-| 👗 **Fashion Website** | Cinematic 8-page luxury fashion site featuring custom cursor, GSAP scroll animations, and clip-mask hero. | `HTML`, `CSS`, `JS`, `GSAP` | [**Visit Live 🔗**](https://shubhamx599.vercel.app/) |
-| 🎮 **Nexus Arena** | Gaming tournament platform featuring brackets, live leaderboards, and user registration. | `React`, `Tailwind`, `REST APIs` | [**Visit Live 🔗**](https://nexusarena.vercel.app/) |
-| 🧠 **AIWay** | Aggregator platform to discover and compare AI courses across top learning sites. | `React`, `Tailwind CSS` | [**Visit Live 🔗**](https://aiway.vercel.app/) |
+| **Nexus Arena** | Gaming tournament platform featuring brackets, live leaderboards, and user registration. | `React`, `Tailwind`, `REST APIs` | [**Visit Live**](https://nexusarena.vercel.app/) |
+| **AIWay** | Aggregator platform to discover and compare AI courses across top learning sites. | `React`, `Tailwind CSS` | [**Visit Live**](https://aiway.vercel.app/) |
+| **DAM Craft Events** | Luxury Event Management site featuring custom cursor & GSAP scroll animations. | `HTML`, `CSS`, `GSAP`, `React` | [**Visit Live**](https://damcraftevents.vercel.app/) |
 
 </div>
 
@@ -70,7 +67,6 @@
 
 ## 📊 GitHub Dashboard
 
-<!-- Customized stats cards with matching parameters for a unified dark purple/indigo theme -->
 <div align="center">
   <table border="0">
     <tr>
