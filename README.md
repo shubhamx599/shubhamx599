@@ -14,7 +14,7 @@
   <table border="0">
     <tr>
       <td width="80%" valign="middle">
-        <p>👋 Hey, I'm <strong>Shubham</strong>! I am a frontend developer who loves building <strong>fast, interactive, and visually stunning web interfaces</strong>.</p>
+        <p>👋 Hey, I'm <strong>Shubham</strong>! I am a creative developer who loves building <strong>fast, interactive, and visually stunning web interfaces</strong>.</p>
         <p>🎨 With a strong background in graphic design, I bring a unique blend of aesthetic precision and clean engineering to every project. I care deeply about how things look, feel, and function.</p>
         <p>📍 Delhi, India</p>
       </td>
